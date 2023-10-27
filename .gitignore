@@ -1,3 +1,7 @@
+# test ignore
+mySecret.js
+
+
 # Logs
 logs
 *.log
